@@ -10,17 +10,17 @@ A simple yet powerful Python GUI project created for my Programming Fundamentals
 - Export all data to an Excel sheet
 - Reload saved data from the Excel file at any time
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Python
 - Tkinter for GUI
 - openpyxl for Excel handling
 
-📸 Screenshots
+## 📸 Screenshot
+<img width="106" alt="image" src="https://github.com/user-attachments/assets/25348ef4-8c8b-410b-98f3-3013270be973" />
 
-_Add your screenshots here (GUI view, data table, Excel export, etc.)_
 
-📁 How to Run
+## 📁 How to Run
 
 1. Make sure you have Python installed.
 2. Install required libraries:
