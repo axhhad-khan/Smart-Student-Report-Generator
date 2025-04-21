@@ -17,7 +17,8 @@ A simple yet powerful Python GUI project created for my Programming Fundamentals
 - openpyxl for Excel handling
 
 ## 📸 Screenshot
-<img width="106" alt="image" src="https://github.com/user-attachments/assets/25348ef4-8c8b-410b-98f3-3013270be973" />
+
+<img width="408" alt="{EE6183D8-99A1-4191-86F4-15F64F872483}" src="https://github.com/user-attachments/assets/2ca115cf-51bc-4c51-a741-27f9e895b6c7" />
 
 
 ## 📁 How to Run
